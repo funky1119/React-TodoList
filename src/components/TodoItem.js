@@ -29,6 +29,7 @@ const Text = styled.div`
     props.done &&
     css`
       color: #ced4da;
+      text-decoration: line-through;
     `}
 `;
 
